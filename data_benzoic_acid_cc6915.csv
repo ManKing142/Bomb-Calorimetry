@@ -10,7 +10,7 @@ Water Volume (L),2.0
 Wire Before (g),0.027
 Wire After (g),0.023
 =====,=====
-Time (s), Temperature (C)
+Time, Temperature
 0.00,24.20
 60.00,24.20
 120.00,24.20
